@@ -1,0 +1,17 @@
+{
+  "name": "jest-in-case-and-jest-each",
+  "version": "1.0.0",
+  "description": "step by step refactoring from jest-each to jest in case",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js",
+    "test": "jest --watchAll"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "1.18.4",
+    "jest": "24.8.0",
+    "jest-cli": "24.8.0"
+  },
+  "keywords": []
+}
